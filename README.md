@@ -3,3 +3,6 @@ This repository is highly experimental. It's an archive of old experiments and t
 In short, I'm limiting R2 functions (e.g. f(x,y) = xy) inside a square then tallying their most significant digits.
 
 As the project progresses, I'll explain more about what I'm doing and what I've found out as a result.
+
+001 to 003 are web projects, live on CodePen.
+004 to ? are Python projects (I'm using ffmpeg to render the frames together).
