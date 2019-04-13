@@ -1,8 +1,3 @@
-This repository is highly experimental. It's an archive of old experiments and their results.
+I'm limiting R2 functions (e.g. f(x,y) = xy) inside a square (say 10 by 10, x spanning 0 -> 9, y spanning 0 -> 9) then tallying most significant digits of the cells of that square.
 
-In short, I'm limiting R2 functions (e.g. f(x,y) = xy) inside a square then tallying their most significant digits.
-
-As the project progresses, I'll explain more about what I'm doing and what I've found out as a result.
-
-001 to 003 are web projects, live on CodePen.
-004 to ? are Python projects (I'm using ffmpeg to render the frames together).
+There is no purpose to this project beyond my curiosity and making cool graph animations. 
